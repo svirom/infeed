@@ -1,0 +1,64 @@
+body {
+  color: $color-text;
+  font-family: $font-main;
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+h1, h2, h3 {
+  margin-bottom: 1rem;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 3.25rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+p, li {
+  margin-bottom: 1.25rem;
+}
+
+a {
+  color: $color-text;
+
+  &:hover {
+    color: $color-text;
+  }
+}
+
+sup {
+  font-size: 65%;
+}
+
+@include until($md) {
+  body {
+    // font-size: 1rem;
+  }
+
+  h1 {
+    font-size: 2.25rem;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+  p, li {
+    font-size: 1.125rem;
+  }
+}
+
