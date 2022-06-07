@@ -386,7 +386,7 @@ ul {
 
 .about-subtitle {
   font-size: 1.5rem;
-  text-decoration: underline;
+  font-weight: 700;
 }
 
 .formula {
@@ -689,6 +689,7 @@ ul {
 }
 
 .options-header .options-subtitle {
+  margin-bottom: 0.5rem;
   font-size: 1.5rem;
   font-weight: 600;
 }
