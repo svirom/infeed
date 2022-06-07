@@ -51,7 +51,6 @@
 	}
 
 	&-text {
-		padding-top: 1.5rem;
 		padding-right: 4.5rem;
 
 		ul {
@@ -61,7 +60,7 @@
 	}
 
 	&-subtitle {
-		font-size: 1.5rem;
+		font-size: 1.75rem;
 		font-weight: 700;
 	}
 }
@@ -814,10 +813,6 @@
 		&-img {
 			margin-top: 2rem;
 		}
-
-		&-text {
-			padding-top: 0;
-		}
 	}
 
 	.formula {
@@ -913,6 +908,10 @@
 			h2 {
 				font-size: 2rem;
 			}
+		}
+
+		&-subtitle {
+			font-size: 1.5rem;
 		}
 
 		&-text {

@@ -375,7 +375,6 @@ ul {
 }
 
 .about-text {
-  padding-top: 1.5rem;
   padding-right: 4.5rem;
 }
 
@@ -385,7 +384,7 @@ ul {
 }
 
 .about-subtitle {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-weight: 700;
 }
 
@@ -1124,9 +1123,6 @@ ul {
   .about-img {
     margin-top: 2rem;
   }
-  .about-text {
-    padding-top: 0;
-  }
   .formula {
     margin-top: 0;
   }
@@ -1199,6 +1195,9 @@ ul {
   }
   .about-title h2 {
     font-size: 2rem;
+  }
+  .about-subtitle {
+    font-size: 1.5rem;
   }
   .about-text {
     padding-right: 0;
