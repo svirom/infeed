@@ -1244,11 +1244,6 @@ ul {
   .options-header .options-subtitle {
     font-size: 1.25rem;
   }
-  .options-header .options-stars span {
-    display: block;
-    margin-left: 0;
-    margin-top: 0.25rem;
-  }
   .options-img {
     display: block;
     padding-bottom: 2rem;
