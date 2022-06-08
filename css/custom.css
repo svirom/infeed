@@ -429,6 +429,14 @@ ul {
   padding-top: 3.125rem;
 }
 
+.results-img p {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+}
+
 .foods {
   padding-top: 3rem;
   padding-bottom: 4rem;

@@ -86,56 +86,56 @@ document.addEventListener('DOMContentLoaded', function() {
 			items: [
 				{
 					name: "Single Pack",
-					price: "£24.95",
-					save: "You Save 28%",
-					discountFrom: "£34.95",
+					price: "£39.95",
+					save: "You Save 20%",
+					discountFrom: "£49.95",
 					savings: "£10.00",
 					link: "/links-rr-c/exit1.php"
 				},
 				{
 					name: "Three Pack",
-					price: "£70.77",
-					save: "You Save 32%",
-					discountFrom: "£104.85",
-					savings: "£34.08",
+					price: "£109.85",
+					save: "You Save 26%",
+					discountFrom: "£149.85",
+					savings: "£40.00",
 					link: "/links-rr-c/exit2.php"
 				},
 				{
 					name: "Six Pack",
-					price: "£125.82",
-					save: "You Save 42%",
-					discountFrom: "£209.70",
-					savings: "£83.88",
+					price: "£201.42",
+					save: "You Save 32%",
+					discountFrom: "£299.70",
+					savings: "£98.28",
 					link: "/links-rr-c/exit3.php"
 				},
 			]
 		},
 		{
 			name: "Subscribe & Save",
-			slogan: "Save up to 45% OFF",
+			slogan: "Save up to 35% OFF",
 			items: [
 				{
 					name: "Single Pack",
-					price: "£22.71",
-					save: "You Save 34%",
-					discountFrom: "£34.95",
-					savings: "£12.24",
+					price: "£34.95",
+					save: "You Save 30%",
+					discountFrom: "£49.95",
+					savings: "£15.00",
 					link: "/links-rr-c/exit4.php"
 				},
 				{
 					name: "Three Pack",
-					price: "£65.01",
-					save: "You Save 38%",
-					discountFrom: "£104.85",
-					savings: "£39.84",
+					price: "£100.90",
+					save: "You Save 32%",
+					discountFrom: "£149.85",
+					savings: "£48.95",
 					link: "/links-rr-c/exit5.php"
 				},
 				{
 					name: "Six Pack",
-					price: "£115.32",
-					save: "You Save 45%",
-					discountFrom: "£209.70",
-					savings: "£94.38",
+					price: "£193.95",
+					save: "You Save 35%",
+					discountFrom: "£299.70",
+					savings: "£105.75",
 					link: "/links-rr-c/exit6.php"
 				},
 			]
